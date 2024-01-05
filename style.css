@@ -14,7 +14,7 @@ body {
   font-family: serif;
   padding: 0 2em;
 }
-.pallete {
+.palette {
   position: relative;
   background-color: #fff;
   width: 45em;
@@ -27,7 +27,7 @@ body {
   box-sizing: border-box;
 }
 
-.pallete button {
+.palette button {
   font-size: 1.1em;
   padding: 0.7em 2em;
   border: none;
@@ -45,7 +45,7 @@ body {
   transition: 0.4s;
 }
 
-.pallete button:hover {
+.palette button:hover {
   background-color: #fff;
   color: #1f1f1f;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -84,7 +84,7 @@ body {
     padding: 2em;
   }
 
-  .pallete {
+  .palette {
     height: initial;
   }
 
